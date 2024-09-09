@@ -1,4 +1,4 @@
-# Moselo de pontuação - Regressão Linear Simples
+# Modelo de pontuação - Regressão Linear Simples
 
 ## Instalar venv e requirements
 ```
